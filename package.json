@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/bernskioldmedia/scrollLock.git"
+    "url": "git+ssh://git@github.com/bernskioldmedia/accordion.git"
   },
   "keywords": [
     "javascript",
@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/bernskioldmedia/accordion#readme",
   "dependencies": {
-    "badger-accordion": "^1.2.3",
+    "badger-accordion": "^1.2.3"
   }
 }
